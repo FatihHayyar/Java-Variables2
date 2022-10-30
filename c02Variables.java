@@ -1,6 +1,6 @@
 package day01Variables;
 
-public class c02Variables {
+public class C02Variables {
     public static void main(String[] args) {
 //        int a=5;
 //        double b=3.5;
